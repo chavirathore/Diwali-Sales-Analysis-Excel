@@ -26,6 +26,9 @@ The dashboard includes:
 - Zone-wise sales amount
 - Sales by age group
 
+### Dashboard Preview
+![Diwali Sales Analysis Dashboard](dashboard.png)
+
 ## 📁 Project File
 **`DIWALI SALES 2.xlsx`** — Excel workbook containing the sales analysis and dashboard.
 
